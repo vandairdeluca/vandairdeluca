@@ -3,8 +3,8 @@ I focus on continuous personal growth and improvment
 
 🚀 **About Me**
 : 
-I'm an iOS Developer specializing in Swift-based mobile applications but with different stack knowledges and broad tech background. 
-I enjoy crafting intuitive user interfaces and optimizing app performance focus on user exerience.
+- I'm an iOS Developer specializing in Swift-based mobile applications but with different stack knowledges and broad tech background. 
+- I enjoy crafting intuitive user interfaces and optimizing app performance focus on user exerience.
 
 🌟 **Skills**
 :
