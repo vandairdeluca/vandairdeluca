@@ -1,11 +1,13 @@
-# Hi there 👋 I'm Vandair De Luca!
+# Hi there 👋 , I'm Vandair De Luca!
 I focus on continuous personal growth and improvment
 
 🚀 **About Me**
+: 
 I'm an iOS Developer specializing in Swift-based mobile applications but with different stack knowledges and broad tech background. 
 I enjoy crafting intuitive user interfaces and optimizing app performance focus on user exerience.
 
 🌟 **Skills**
+:
 - Languages: Swift, Objective-C, javascript, python
 - Frameworks: UIKit, SwiftUI, Core Data, react native, Matplotlib & Seaborn, keras
 - Tools: Xcode, GitHub Actions...
